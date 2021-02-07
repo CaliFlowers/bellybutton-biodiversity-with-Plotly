@@ -1,6 +1,6 @@
 # Bellybutton-Biodiversity-with-Plotly
 
-## Dsta Visualization in Javascript
+## Data Visualization in Javascript
     Communicating the results from a wor of data analysis is a major part of the data analysts job. Data Visualization is one way in which data analysts tell story through data.
 It is iften said that a picture is worth a thousand words; 
 and a simple chart can tell the story of a million rows. As has been said, Javascript can be a powerful tool in a skilled Data Analyst's hands. 

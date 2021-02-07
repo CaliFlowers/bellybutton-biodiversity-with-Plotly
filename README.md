@@ -2,7 +2,8 @@
 
 ## Dsta Visualization in Javascript
     Communicating the results from a wor of data analysis is a major part of the data analysts job. Data Visualization is one way in which data analysts tell story through data.
-It is iften said that a picture is worth a thousand words; and a simple chart can tell the story of a million rows. As has been said, Javascript can be a powerful tool in a skilled Data Analyst's hands. 
+It is iften said that a picture is worth a thousand words; 
+and a simple chart can tell the story of a million rows. As has been said, Javascript can be a powerful tool in a skilled Data Analyst's hands. 
 While Javascript developers have yet to catch up with Python in terms of the breadth of their data functions, Javascript's role as a front-end language offers Data Analysts unique advantges tha backend languages such as Python cannot offer without the use of Flask and routing tools. 
 One such advantage is interactivity in the sense that Javascript allows the data analysts to directly prsent their work to the public by placing many tools and decisions at the user's fingertips. 
 
